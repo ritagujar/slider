@@ -1,3 +1,3 @@
-# react-project slider
+# slider - React
 
 
